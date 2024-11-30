@@ -1,0 +1,29 @@
+html{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #141414;
+}
+
+div {
+    background-color: black;
+    border-radius: 12px;
+    padding: 12px;
+    max-width: fit-content;
+    margin: auto;
+}
+
+a {
+    color: darkgray;
+    text-decoration: none;
+    padding: 12px;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+a.active {
+    color: white;
+}
